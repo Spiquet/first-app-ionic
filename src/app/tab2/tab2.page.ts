@@ -9,6 +9,8 @@ import { PhotoService } from '../../app/shared/services/photo.service';
 })
 export class Tab2Page {
 
+
+
   constructor(public photoService: PhotoService) {}
 
 
@@ -17,3 +19,5 @@ export class Tab2Page {
   }
 
 }
+
+
